@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "OZMKnQ1rBS56MX4EDutR0k3Z3UUsXciAb72kG8f/Jwg+gS9U38azNbi67v3fRBef6ll2iyDkzGA1rwPy0EAN+A==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\jzaga\\Desktop\\Exercise\\BlazorWebAssemblySignalRApp\\Shared\\BlazorWebAssemblySignalRApp.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jzaga\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.12\\microsoft.netcore.app.ref.7.0.12.nupkg.sha512",
+    "C:\\Users\\jzaga\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.12\\microsoft.windowsdesktop.app.ref.7.0.12.nupkg.sha512",
+    "C:\\Users\\jzaga\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.12\\microsoft.aspnetcore.app.ref.7.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

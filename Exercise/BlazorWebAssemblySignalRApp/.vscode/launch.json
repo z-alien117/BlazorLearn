@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "name": "C#: BlazorWebAssemblySignalRApp.Server [Default Configuration]",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}\\Server\\BlazorWebAssemblySignalRApp.Server.csproj"
+        }
+    ]
+}

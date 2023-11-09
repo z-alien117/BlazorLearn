@@ -1,0 +1,11 @@
+D:\Users\jzaga\Desktop\Exercise\BlazorWebAssemblySignalRApp\Shared\bin\Debug\net7.0\BlazorWebAssemblySignalRApp.Shared.deps.json
+D:\Users\jzaga\Desktop\Exercise\BlazorWebAssemblySignalRApp\Shared\bin\Debug\net7.0\BlazorWebAssemblySignalRApp.Shared.dll
+D:\Users\jzaga\Desktop\Exercise\BlazorWebAssemblySignalRApp\Shared\bin\Debug\net7.0\BlazorWebAssemblySignalRApp.Shared.pdb
+D:\Users\jzaga\Desktop\Exercise\BlazorWebAssemblySignalRApp\Shared\obj\Debug\net7.0\BlazorWebAssemblySignalRApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\jzaga\Desktop\Exercise\BlazorWebAssemblySignalRApp\Shared\obj\Debug\net7.0\BlazorWebAssemblySignalRApp.Shared.AssemblyInfoInputs.cache
+D:\Users\jzaga\Desktop\Exercise\BlazorWebAssemblySignalRApp\Shared\obj\Debug\net7.0\BlazorWebAssemblySignalRApp.Shared.AssemblyInfo.cs
+D:\Users\jzaga\Desktop\Exercise\BlazorWebAssemblySignalRApp\Shared\obj\Debug\net7.0\BlazorWebAssemblySignalRApp.Shared.csproj.CoreCompileInputs.cache
+D:\Users\jzaga\Desktop\Exercise\BlazorWebAssemblySignalRApp\Shared\obj\Debug\net7.0\BlazorWebAssemblySignalRApp.Shared.dll
+D:\Users\jzaga\Desktop\Exercise\BlazorWebAssemblySignalRApp\Shared\obj\Debug\net7.0\refint\BlazorWebAssemblySignalRApp.Shared.dll
+D:\Users\jzaga\Desktop\Exercise\BlazorWebAssemblySignalRApp\Shared\obj\Debug\net7.0\BlazorWebAssemblySignalRApp.Shared.pdb
+D:\Users\jzaga\Desktop\Exercise\BlazorWebAssemblySignalRApp\Shared\obj\Debug\net7.0\ref\BlazorWebAssemblySignalRApp.Shared.dll
