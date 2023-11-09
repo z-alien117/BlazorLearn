@@ -19,3 +19,4 @@
   - [Tutorial: Embed a Power BI report in an application for your organization](https://learn.microsoft.com/en-us/power-bi/developer/embedded/embed-organization-app)
 - MS Learn
   - [Blazor collection](https://learn.microsoft.com/en-gb/collections/1ep3s5gejodp70)
+  - [Blazor School](https://blazorschool.com/)
