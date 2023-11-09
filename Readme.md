@@ -1,3 +1,5 @@
+# Guia
+
 - Deploy IIS
   - [Publish an ASP.NET Core app to IIS](https://learn.microsoft.com/en-us/aspnet/core/tutorials/publish-to-iis?view=aspnetcore-7.0&tabs=visual-studio)
   - [Host ASP.NET Core on Windows with IIS](https://learn.microsoft.com/en-us/aspnet/core/host-and-deploy/iis/?view=aspnetcore-7.0)
@@ -20,3 +22,6 @@
 - MS Learn
   - [Blazor collection](https://learn.microsoft.com/en-gb/collections/1ep3s5gejodp70)
   - [Blazor School](https://blazorschool.com/)
+
+## Contacto
+https://www.linkedin.com/in/jafet-zagal/
